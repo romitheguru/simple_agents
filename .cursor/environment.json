@@ -1,0 +1,4 @@
+{
+  "name": "simple-agents",
+  "install": "export PATH=\"$HOME/.local/bin:$PATH\"\nuv sync --frozen"
+}
